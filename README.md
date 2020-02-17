@@ -5,12 +5,12 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Startup Vue App
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles and minifies Vue App for production
 ```
 npm run build
 ```
@@ -23,6 +23,16 @@ npm run test:unit
 ### Lints and fixes files
 ```
 npm run lint
+```
+
+### Statup Storybook App
+```
+npm run storybook
+```
+
+### Compiles and minifies Storybook App for production
+```
+npm run build-storybook
 ```
 
 ### Customize configuration
